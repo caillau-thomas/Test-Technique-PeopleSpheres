@@ -11,7 +11,7 @@ Ant Design: https://ant.design/
 - To start the project you can use the commands: ` yarn start ` or ` make start `
 - You can also install the dependencies and then start the project with the command: `make init `
 
-# 
+# STRUCTURE
 
 app/src  </br>
 ├── App.css </br>
